@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gusor/OneDrive/Master/V. Gestion de proyectos de inteligencia
+  artificail/Actividad_5/Actividad5/mlruns_final/644771679268327733/0a7fabd7fe954602a839bd421962ba3f/artifacts
+end_time: 1792352945283
+entry_point_name: ''
+experiment_id: '644771679268327733'
+lifecycle_stage: active
+run_id: 0a7fabd7fe954602a839bd421962ba3f
+run_name: Modelo_Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792352933915
+status: 3
+tags: []
+user_id: gusor

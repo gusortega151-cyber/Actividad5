@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gusor/OneDrive/Master/V. Gestion de proyectos de inteligencia
+  artificail/Actividad_5/Actividad5/mlruns_final/644771679268327733/7542a40ff14349e6bed134e0b36235b4/artifacts
+end_time: 1792352947455
+entry_point_name: ''
+experiment_id: '644771679268327733'
+lifecycle_stage: active
+run_id: 7542a40ff14349e6bed134e0b36235b4
+run_name: Modelo_XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792352945298
+status: 3
+tags: []
+user_id: gusor

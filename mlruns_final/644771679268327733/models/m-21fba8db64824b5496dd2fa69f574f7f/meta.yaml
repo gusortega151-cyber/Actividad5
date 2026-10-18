@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/gusor/OneDrive/Master/V. Gestion de proyectos
+  de inteligencia artificail/Actividad_5/Actividad5/mlruns_final/644771679268327733/models/m-21fba8db64824b5496dd2fa69f574f7f/artifacts
+creation_timestamp: 1792352934353
+experiment_id: '644771679268327733'
+last_updated_timestamp: 1792352945253
+model_id: m-21fba8db64824b5496dd2fa69f574f7f
+model_type: null
+name: modelo_ridge
+source_run_id: 0a7fabd7fe954602a839bd421962ba3f
+status: 2
+status_message: null

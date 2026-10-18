@@ -1,0 +1,24 @@
+artifact_path: file:///C:/Users/gusor/OneDrive/Master/V. Gestion de proyectos de inteligencia
+  artificail/Actividad_5/Actividad5/mlruns_final/644771679268327733/models/m-21fba8db64824b5496dd2fa69f574f7f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.10.22
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.17.1
+model_id: m-21fba8db64824b5496dd2fa69f574f7f
+model_size_bytes: 9908
+model_uuid: m-21fba8db64824b5496dd2fa69f574f7f
+prompts: null
+run_id: 0a7fabd7fe954602a839bd421962ba3f
+utc_time_created: '2026-10-18 19:48:54.433497'
