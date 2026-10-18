@@ -1,0 +1,11 @@
+# Entornos virtuales y python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# Configuración local de VS Code
+.vscode/
+
+# MLflow y artefactos locales
+mlruns/
